@@ -44,7 +44,7 @@ ____Welcome____
  pip install futures
  pip install mechanize
  cd $HOME 
- rm -rf SSB
+ rm -rf RANDOM
  git clone https://github.com/SAMEER6363/RANDOM.git
 ```
 #### RUN SCRIPT
