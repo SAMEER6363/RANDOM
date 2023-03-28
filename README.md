@@ -50,7 +50,7 @@ ____Welcome____
 #### RUN SCRIPT
 ```python
  cd RANDOM
- python SAMEER.py
+ python RUN.py
 ```
 
 
